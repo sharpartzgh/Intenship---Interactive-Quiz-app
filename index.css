@@ -11,6 +11,7 @@ body {
  }
  
  .quiz-container {
+  max-width: 400px;
   margin: 0 auto;
   text-align: center;
   align-items: center;
@@ -22,11 +23,8 @@ body {
 .question {
   font-size: 1.2em;
   margin-bottom: 20px;
-  width: 400px;
-  border: 2px solid white;
   margin-top: 10px;
   margin: 10px 10px;
-  height: 150px;
   border-radius: 5px;
   display: flex;
   align-items: center;
